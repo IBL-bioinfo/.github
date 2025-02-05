@@ -11,4 +11,4 @@ Before you want to do any editing, please check the [issues](https://github.com/
 
 ## Admins
 
-For admins, if you want to contribute other things, please ask the owners (eg. @snail123815) to invite you to the institute.
+For admins, if you want to contribute other things, please ask existing admins (eg. @DU) in our slack groups to invite you to the institute.
